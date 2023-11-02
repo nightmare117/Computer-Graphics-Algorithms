@@ -31,7 +31,7 @@ To get started with this project, follow these steps:
 ## Usage
 There are seperate cpp files for each algorithm. You can run any fiile and it may require some inputs from the user.
 
-## Algorithm Included
+## Algorithms Included
 - **DDA (Digital Differential Analyzer) Line Drawing Algorithm:** This algorithm draws a line segment between two given points.
 - **Bresenham's Line Algorithm:** An efficient algorithm for drawing lines.
 - **Bresenham's Circle Algorithm:** Used for drawing circles.
